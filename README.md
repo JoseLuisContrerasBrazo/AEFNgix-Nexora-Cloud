@@ -1,4 +1,14 @@
 # Nexora Cloud — Landing Page
+## Wireframe y Mockup
+
+WIREFRAME
+
+<img width="1381" height="2427" alt="wireframe" src="https://github.com/user-attachments/assets/fa8cca20-4a71-4a24-aa8b-534759566b52" />
+
+MOCKUP
+
+<img width="1381" height="2427" alt="mockup" src="https://github.com/user-attachments/assets/6d18d784-4ac5-42f3-92d3-89984ddef78b" />
+
 
 ## Descripción
 
